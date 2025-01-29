@@ -1,0 +1,1 @@
+Accelleration seems to be working, but im unsure if the maths is right, as at the mo one meter is 1 pixel.
